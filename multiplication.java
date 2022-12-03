@@ -10,7 +10,7 @@ public class multiplication {
 System.out.println("Enter the Second number is =");
 y=input.nextInt();
 mul=x*y;
-System.out.println("Multiplication of two number is ="+sub);
+System.out.println("Multiplication of two number is ="+mul);
 
 
     }
